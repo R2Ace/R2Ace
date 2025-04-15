@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 GitHub Streak Stats  
+## 📈 GitHub Stats  
 ![](https://nirzak-streak-stats.vercel.app/?user=r2ace&theme=outrun&hide_border=false)
 
 ---
